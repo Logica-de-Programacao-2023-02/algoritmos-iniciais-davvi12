@@ -1,0 +1,5 @@
+1: leia lista 
+2: var elemento = x
+3: para cada elemento != x , leia lista 
+4: para elemento = x 
+5: fim
