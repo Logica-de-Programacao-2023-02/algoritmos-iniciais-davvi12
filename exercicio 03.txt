@@ -1,0 +1,5 @@
+1: leia a lista de números
+2: lista de números = A + B
+3: dividendo = C
+4: se lista de números = A + B , C = 2 
+5: resultado = A + B / C
