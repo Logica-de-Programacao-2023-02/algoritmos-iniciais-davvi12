@@ -1,0 +1,7 @@
+1: leia as temperaturas 
+2: leia unidade de medida
+3: se unidade = C
+4: entao o resultado = (temperatura * 1,8) + 32 
+5: senão 
+6: então resultado = (temperatura - 32) / 1.8
+7: escreva resultado
